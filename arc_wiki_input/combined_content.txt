@@ -1,0 +1,77 @@
+Prompt:What do I do if I am new to ARC?
+ARC PROJECT DIRECTORY (Use this as context for questions about projects):
+
+Sphero Swarm  – Leader: @Aarav Garg
+Our project revolves around the use of Sphero balls, compact spherical robots capable of precise movement and coordination, to form dynamic representations of molecules. By orchestrating the controlled movement of these Sphero robots, we will bring molecular structures to life, enabling visitors to gain a deeper understanding of chemistry in an engaging and interactive way.
+
+Dog Copter – Leader: @Ryan , dc-announcements
+We're building a groundbreaking fusion of a drone and a robotic dog, featuring autonomous navigation and camera/lidar vision. Inspired by innovations in robotic dogs (Boston Dynamics' Spot), flying cars, and drones, our goal is to create a versatile robot capable of seamless transitions, effortlessly traversing rocky land and taking flight in the air, primarily for exploration purposes. Join us as we push the boundaries of robotics to create the marvel that is DogCopter.
+
+Rocket League  – Leader: @Campbell M.
+We are building an autonomous system of small-scale vehicles to play exhilarating, high-speed soccer matches. Inspired by the popular video game Rocket League, our goal is to create a dynamic and interactive demo, pitting human-controlled cars against autonomous ones. As we progress, we envision launching a multi-university competition, inviting teams to showcase their own intelligent strategies in a thrilling autonomous soccer tournament. Be a part of this cutting-edge initiative and help shape the future of autonomous sports!
+
+Wizard's Chess  – Leader: @Sam G
+We're creating a large-scale, autonomous chess game inspired by the enchanting Wizard's Chess from Harry Potter. The pieces will consist of individual robots, controlled using Raspberry Pi Picos and wifi chips, that all connect to a central computer that controls all the pieces movements. On the software side, our goal is to bring chess to life by combining voice recognition, path planning, computer vision, and swarm control to develop a unique, interactive player experience.
+
+Piano Hand  – Leader: @Revanth
+Inspired by groundbreaking biomechanical robots like Boston Dynamics' Atlas, our project aims to build a fully autonomous, human-like hand capable of playing the piano, achieving the dexterity and complexity of the human hand's 27 degrees of freedom. We are exploring the exciting realm of machine learning and optical image recognition to develop a model that can read sheet music, delving in to different algorithms to make hand motion along the piano as real as possible, and controlling and running all this with controllers channeled by PCBs.
+
+Drone Delivery – Leader: @Josh Mansky
+Our project focuses on developing an autonomous drone capable of delivering packages, revolutionizing last-mile delivery applications. This drone will have an optimized flight control system to efficiently navigate urban environments, avoid all potential obstacles (like buildings and trees), and plan long-term routes. We are also creating a mobile app that enables users to easily interact with the drone and experience the convenience of drone delivery firsthand.
+
+LEADERSHIP at ARC:
+
+{ role: "President", name: "Haddy Alchaer", division: "Executive Board" },
+        {roles: ["President","Project Lead" ], name: "Revanth Senthilkumaran", division: "Executive Board"},
+        { role: "Operations Director", name: "Mouli Sangita", division: "Executive Board" },
+        { role: "Treasurer", name: "Tamara Itani", division: "Executive Board" },
+        { role: "Piano Hand Lead", name: "Revanth Senthilkumaran", division: "Project Leads" },
+        { role: "Drone Delivery Lead", name: "Josh Mansky", division: "Project Leads" },
+        { role: "Dog Copter Lead", name: "Ryan Ting", division: "Project Leads" },
+        { role: "Rocket League Lead", name: "Campbell McClendon", division: "Project Leads" },
+        { role: "Wizard's Chess Lead", name: "Sam Graham", division: "Project Leads" },
+        { role: "Sphero Swarm Lead", name: "Aarav Garg", division: "Project Leads" },
+        { role: "Astrobotics Lead", name: "Elizabeth Kung", division: "Project Leads" },
+        { role: "Events Coordinator", name: "Nithin Anand", division: "Operations Leads" },
+        { role: "Development Lead", name: "Edgar Babajanyan", division: "Operations Leads" },
+        { role: "Marketing Lead", name: "Yashvi Agrawal", division: "Operations Leads" },
+        { role: "Outreach / Sponsorships Lead", name: "Tristan Brideweser", division: "Operations Leads" },
+        { roles: ["Product & Design Lead", "RISE Lead"], name: "Vijay Muthukumar", division: "RISE Lead" }
+
+
+When given a question like "Tell me about ARC's Discord Rules" (keyword being Discord), respond like below:
+
+ If you are new to ARC, introduce yourself in the -introductions to get started!
+ For more information about the projects, or for all relevant ARC resources, see the Server Guide
+
+ If you are interested in joining a project: make sure to select your project role in Channels & Roles
+
+Reminders about upcoming team meetings will be posted in -meeting-plans
+ Club updates and deadlines will be posted in announcements
+
+ Lastly, you may find it helpful to modify your server nickname to your actual name. This creates better continuity between in-person meetings and discord discussions.
+
+
+WHAT TO CHECK OUT IF YOU ARE ARC NOOB:
+ ARC Wiki (temporarily down): https://www.purduearc.com/wiki/
+ ARC Github: https://github.com/purdue-arc
+ ARC Drive:  https://drive.google.com/drive/folders/0B7vC94KWR9joUzlab25HdW1nRE0?resourcekey=0-W8Fq62MwGB6h30_DXKmpjA&usp=sharing
+ BIDC ACCESS GUIDE: https://docs.google.com/document/d/1KCTd80bjU_FQhWuuwo3mB5LbyXC1yV-Dxqtei_C1ZKk/edit?usp=sharing
+(If you don't have access to Google Drive links, contact member of @Board )
+
+RESOURCES FOR ARC OUTSIDERS (Share with friends):
+ ARC Website: https://www.purduearc.com/
+ ARC YouTube Channel: https://www.youtube.com/channel/UCXr3FEZwfZ2gQgtgLHQkeBA
+ ARC Instagram: https://www.instagram.com/purdue.arc/
+
+RECOMMENDED ROBOTICS RESOURCES FOR  EVERYONE:
+ Python Tutorial: https://dabeaz-course.github.io/practical-python/
+ Easy-to-follow Linux Tutorial: https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
+ Springer Handbook on Robotics: https://link.springer.com/referencework/10.1007%2F978-3-540-30301-5
+ ROS Tutorial: https://wiki.purduearc.com/wiki/tutorials/snake-tutorial
+ Autonomous Navigation Series: https://youtube.com/playlist?list=PLn8PRpmsu08rLRGrnF-S6TyGrmcA2X7kg
+
+Join the club via Boilerlink to officially be recognized as a member of ARC by Purdue!
+ BoilerLink: https://boilerlink.purdue.edu/organization/purduearc
+
+

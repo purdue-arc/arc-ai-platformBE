@@ -20,19 +20,19 @@ for m in genai.list_models():
         print(m.name)
 
 
-with open('code_assist_input/query.txt', 'r') as file:
+with open('arc_wiki_input/arc_query.txt', 'r') as file:
     query = file.read()
 
-with open('code_assist_input/context_window.txt', 'r') as file:
+with open('arc_wiki_input/arc_knowledge_base', 'r') as file:
     context = file.read()
 
 # Write the combined content to combined_context.txt
-with open('code_assist_input/combined_context.txt', 'w') as file:  # Use 'w' for writing
-    file.write(query+'\n')
+with open('arc_wiki_input/combined_context.txt', 'w') as file:  # Use 'w' for writing
+    file.write('Prompt:' + query+'\n')
     file.write(context)
 
 # The part below seems unnecessary if you're just creating combined_content.txt
-with open('code_assist_input/combined_content.txt', 'r') as file:
+with open('arc_wiki_input/combined_content.txt', 'r') as file:
     gemini_pass = file.read()  # opens query prompt for reading
 
 submit = gemini_pass

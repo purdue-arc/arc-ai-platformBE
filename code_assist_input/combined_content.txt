@@ -1,2 +1,2 @@
-Say hello
-Temporary text for now. Just say hello to me
+What is CS?
+Answer the question

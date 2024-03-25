@@ -26,8 +26,8 @@ with open('code_assist_input/query.txt', 'r') as file:
 with open('code_assist_input/context_window.txt', 'r') as file:
     context = file.read()
 
-# Write the combined content to combined_context.txt
-with open('code_assist_input/combined_context.txt', 'w') as file:  # Use 'w' for writing
+# Write the combined content to combined_content.txt
+with open('code_assist_input/combined_content.txt', 'w') as file:  # Use 'w' for writing
     file.write(query+'\n')
     file.write(context)
 
